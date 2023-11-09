@@ -1,6 +1,6 @@
 # Yeni Bir Çalışan Türü
 
-Plasma adamlar, sıradan bir göz için sadece mor iskeletler gibi görünebilir, ancak bu, onları oluşturan organizmaların inanılmaz karmaşıklığını yansıtmaz. Plasma adamlar, sadece bir organizma değil, milyonlarca organizma olan Kolonidler olarak bilinen organizmaların gerçek doğasını yansıtmaktadır.
+Plasma insanlar, sıradan bir göz için sadece mor iskeletler gibi görünebilir, ancak bu, onları oluşturan organizmaların inanılmaz karmaşıklığını yansıtmaz. Plasma insanlar, sadece bir organizma değil, milyonlarca organizma olan Kolonidler olarak bilinen organizmaların gerçek doğasını yansıtmaktadır.
 
 Kolonidler, mikroskopik, plazma tabanlı mantarlar olarak bilinen organizmalar, diğer Kolonidlerle büyük ağlar oluştururlar. Bu koloniler, zamanla milyarlarca organizmayı içerebilecek şekilde uzanabilir ve bir araya gelerek tek bir uyumlu sosyal birim oluştururlar. İlk olarak Freyja adlı buzlu ayın sıvı plazma havuzlarında mor mantar olarak keşfedildiklerinde, Kolonidler göz ardı edilmişti, ta ki Nanotrasen araştırmacıları, bu organizmaların küçük elektriksel uyarılar ürettiğini keşfetene kadar. Daha fazla araştırma, bu uyarıların sinir sinyallerinin bir benzeri olduğunu ortaya çıkardı ve araştırmacılar, bu organizmaların zeka sahibi bir yaşam formu olabileceğini merak etti.
 
@@ -10,7 +10,7 @@ Marcel'in artık bir organizma olmuş halinde yapılan testlerde, insan benzeri 
 
 Bu keşiften sonra, Nanotrasen, başlangıçta bu yeni varlıklarda askeri uygulamalar için potansiyel gördü. Ancak, denemeler, savaş alanında kullanılabilecek kadar dayanıklı olmadıklarını gösterdi ve üstelik, özgür iradeleri vardı ve bu yeni bulunan türün birçok üyesi, kana susamış cinayet yerine yemek pişirme, hukuk okuma veya diğer birçok uğraşla ilgileniyordu. Ancak, şirket için heyecan verici hale gelen projedeki hayal kırıklığı, Nanotrasen'in işgücündeki boşlukları doldurmak için mükemmel olacakları gerçeğini fark etti, çünkü organik işçilerin hayatta kalması için gerekli olan az sayıda ihtiyacı veya hatta temel gereksinimleri vardı.
 
-Ve böylece, plasma adamlar, Nanotrasen'in en yeni işçi türü haline geldi: az ücretle sıradan işleri yapmaya hazır, yeniden canlanmış cesetler. Ancak, plazmaların işgücündeki özgün bir sorunları vardı - yanma eğilimleri. Bu nedenle, bu yeni işgücünden yararlanmak için Envirosuit'in oluşturulması gerekti.
+Ve böylece, plasma insanlar, Nanotrasen'in en yeni işçi türü haline geldi: az ücretle sıradan işleri yapmaya hazır, yeniden canlanmış cesetler. Ancak, plazmaların işgücündeki özgün bir sorunları vardı - yanma eğilimleri. Bu nedenle, bu yeni işgücünden yararlanmak için Envirosuit'in oluşturulması gerekti.
 
 # Elbise
 
@@ -30,7 +30,7 @@ Belki şimdi kendi kendinize düşünüyorsunuzdur: "Bu her güzel ama, diyelim 
 
 # Tepkiler
 
-Plasma adamların geçici olarak tanıtıldığı istasyon mürettebatları, yeni meslektaşlarına olası beklenmedik bir şekilde tepki vermediler. Space Station 8'in Kaptanı Lucio Spurgis'in kelimeleriyle: "Son zamanlarda o kadar çok şey yaşadım ki, varış noktasından çıkan mor adamları neredeyse fark etmedim."
+Plasma insanların geçici olarak tanıtıldığı istasyon mürettebatları, yeni meslektaşlarına olası beklenmedik bir şekilde tepki vermediler. Space Station 8'in Kaptanı Lucio Spurgis'in kelimeleriyle: "Son zamanlarda o kadar çok şey yaşadım ki, varış noktasından çıkan mor insanları neredeyse fark etmedim."
 
 Space Station 5'in Baş Mühendisi Ruth Blarbo ise şunları söylüyor: "Onlar iyiler, sanırım, çoğunlukla süpermadde güneşleniyorlar. Onları insan personeli gibi, sadece eğlence için çözmek yerine, delamini etkisiz hale getirmek için yaparlar."
 
@@ -38,6 +38,6 @@ Ancak, herkes bu kadar olumlu tepki vermedi. Hayvan Hakları Konsorsiyumu ve di�
 
 # Eğlenceli Bilgiler:
 * Kolonidler Icemoon'a özgü olduğu için, aydaki sıvı plazma havuzları onlarla dolup taşmaktadır. Bu havuzlara düşmek, bir sonraki Marcel Delacroix olmanıza neden olabilir.
-* Plasma adamlar, herhangi bir iskeleti veya gerçekten organik bir yüzeyi enfekte edebilir - Nanotrasen, onları mahkum cesetlerinin bedenlerinden ucuzca temin edebildiği için genellikle insan iskeletlerini kullanır. Evet, bu, plasma adamların dinozor iskeletleri gibi şeylere de bulaşabileceği anlamına gelir ve evet, bu oldukça çığır açıcıdır.
-* Plasma adamlar, insan benzeri davranışları sergiler, çoğunlukla sınırlı bir zaman diliminde insan toplumuyla entegre olduklarından. Bununla birlikte, galaktik sahnede kısa bir sürede kendi benzersiz kültürlerini geliştirmişlerdir.
-* Plasma adamlar sadece radyasyona karşı bağışıklı değil, aynı zamanda onu oldukça verimli bir enerji kaynağı olarak kullanırlar. Icemoon'da arka planda yayılan düşük miktardaki radyasyon bile onları beslemek için yeterlidir.
+* Plasma insanlar, herhangi bir iskeleti veya gerçekten organik bir yüzeyi enfekte edebilir - Nanotrasen, onları mahkum cesetlerinin bedenlerinden ucuzca temin edebildiği için genellikle insan iskeletlerini kullanır. Evet, bu, plasma insanların dinozor iskeletleri gibi şeylere de bulaşabileceği anlamına gelir ve evet, bu oldukça çığır açıcıdır.
+* Plasma insanlar, insan benzeri davranışları sergiler, çoğunlukla sınırlı bir zaman diliminde insan toplumuyla entegre olduklarından. Bununla birlikte, galaktik sahnede kısa bir sürede kendi benzersiz kültürlerini geliştirmişlerdir.
+* Plasma insanlar sadece radyasyona karşı bağışıklı değil, aynı zamanda onu oldukça verimli bir enerji kaynağı olarak kullanırlar. Icemoon'da arka planda yayılan düşük miktardaki radyasyon bile onları beslemek için yeterlidir.
