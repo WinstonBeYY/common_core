@@ -2,7 +2,7 @@
  -Space Station 08’in tam anlamıyla ve bütünüyle buharlaşmasından önce kaydedilen son mesaj. 
 ***
 
-Uzay Büyücüleri Federasyonu, Spinward Sektöründe faaliyet gösterdiği bilinen ve galaksi çapında olduğundan şüphelenilen bir büyü kullanıcıları kolektifidir. Uzay yolculuğu çağından öncesinde bile insan topluluklarını etkilediklerine dair abartılı iddialar ortaya atılmıştır. Bu iddialardan bazıları bütün kötü olayları, diktatörleri ve tuhaf rastlantıları büyücü etkisine bağlarlar.
+Uzay Büyücüleri Federasyonu, Spinward Sektöründe faaliyet gösterdiği bilinen ve galaksi çapında olduğundan şüphelenilen bir büyü kullanıcıları kolektifidir. İnsan topluluklarını uzay yolculuğu çağından önce bile etkilediklerine dair abartılı iddialar ortaya atılmıştır. Bu iddialardan bazıları bütün kötü olayları, diktatörleri ve tuhaf rastlantıları büyücü etkisine bağlarlar.
 
 Büyücülerin gerçekten büyü yapıp yapamadıkları hala tartışılan bir konudur. Daha şüpheci olanlar büyünün var olmadığını, büyücülerin yaptığı ve göze büyü olarak görünen şeylerin aslında büyü kılıfındaki komplike teknolojiler olduğu konusunda ısrar ederler. Çoğunluk ise bu tartışmayı umursamaz, zira gerçek olsalar da olmasalar da, bu büyüler işe yaramaktadır ve oldukça etkili bir şekilde ölüme sebep olabilmektedirler.
 
