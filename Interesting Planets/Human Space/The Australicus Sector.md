@@ -1,8 +1,9 @@
-### The Australicus Sector
-A sector in name only, the Australicus Sector is a subdivision of the Trailward Near Rim once used as a penal colony, and today known galaxywide for its hostile conditions, dangerous wildlife, and friendly populace.
+### Australicus Sektörü
+Trailward Yakın Halkasında yer alan ve sadece ismen bir sektör olan Australicus, bir zamanlar mahkum kolonisi olarak kullanılıyordu. Bugün ise galaksi genelinde, düşmancıl koşulları, tehlikeli vahşi doğası ve dost canlısı halkıyla biliniyor.
 
-Constituting a federation of 9 stars (Kookaburra, Booderee, Adelaide, Elizabeth, King's Star, New Pembroke, Kinross, Topside and Zealandia), alongside a number of outlying territories, the Australicus sector has its own legislature, which represent it as a federal entity at the TerraGov Senate.
+Kookaburra, Booderee, Adelaide, Elizabeth, King’s Star, New Pembroke, Kinross, Topside ve Zealandia isimli 9 yıldızın ve çevredeki diğer bazı bölgelerin federasyonundan oluşan Australicus Sektörü, parlamentosu tarafından federal bir oluşum olarak TerraGov’da temsil edilmektedir. 
+
 
 ### Kookaburra
-The capital system of the Australicus Sector, Kookaburra is considered by many to be the least hostile of the systems of the Australicus Sector. It is, naturally, host to the capital planet of the sector, Union, alongside 2 other habitable planets, all of which have mild climates and generally harmless fauna.
+Australicus Sektörünün merkez sistemi olan Kookaburra, sektörünün en az düşmancıl yeri olarak görülür. Sektörün merkez gezegeni Union da, yumuşak iklimli ve genellikle zararsız faunalı diğer iki yaşanabilir gezegenle beraber, doğal olarak bu sistemdedir.
 
