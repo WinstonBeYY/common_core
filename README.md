@@ -1,17 +1,8 @@
-This is a repository of lore for the codebase, that can be referenced in pulls if you want to start from some common base
+## Kısaca lore
 
+Yıl 2563, evren fokur fokur kaynıyor. Devasa mega-şirketler entrika ve suikastlerden silahlı mücadeleye kadar her yolu kullanıp evrenin en uzak köşelerine genişlerken ve devletler çaresizce onları dizginleyip üstlerinde güç kazanmaya çalışırken, bir yandan da akla hayale sığmaz teknolojiler yaratılıp yok ediliyor. Ama arkanıza yaslanıp büyük resme bakarken, 26. yüzyılda yaşamın en ilgi çekici kısımlarını gözden kaçırabilirsiniz. Bunlar kişilerin, evcil hayvanların, silikonların ve Nanotrasen girişimlerinden en az birinin işine herhangi bir şekilde karışmış olan diğer her şeyin hikayeleridir.
 
-# What This Is Not
-
-This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is as close to canonical lore as you will get for the /tg/station codebase, however people are not required to use this lore, nor are maintainers bound to it.
-
-
-# The Setting
-## Basic Description
-
-The year is 2563. The universe is in flux, as giant megacorporations escalate from covert treachery and assassinations to outright skirmishing, government organizations desperately try to reign in and project power over said corporations as they expand to the farthest reaches of space, and fantastic and fascinating scientific advancements are constantly being made then destroyed. But by standing too far back and looking at the big picture, it's easy to miss out on the most compelling parts of life in the 26th century. These are the stories of the people, pets, silicons, and everything else in between who have become involved with Nanotrasen and their ventures.
-
-![A map of the ss13 universe, roughly sketched](https://file.house/2RoN.png)
+![image](https://github.com/WinstonBeYY/common_core/assets/77203248/36b98fa1-2a65-4d0b-82db-8283f081f97f)
 
 Space Station 13 as a destination has reached near-mythical proportions among the adventurous types since its initial launch in 2548. It began, along with a series of similar stations, as a small, highly classified and secretive plasma research facility far in the depths of the peripheral edges of civilized space. Access to it was kept incredibly hush-hush, and while staffing standards weren't great due to a distinct lack of qualified personnel wishing to disappear for undisclosed periods of time to go to a research station no one knew the location of to study topics unknown, Nanotrasen managed to keep the facility afloat more-or-less. There were a good number of security incidents, and life aboard the station was dangerous and fraught with threats from enemy agents to dark magicks and more, and the entire station has been detonated or disappeared more than a handful of times only to be rebuilt by hand, but the minerals and knowledge coming back more than made up for the considerable expenses.
 
