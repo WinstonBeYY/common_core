@@ -1,15 +1,15 @@
-Slimes
+# Slimelar
 
-Throughout mankind's time in the stars, they have encountered many diverse and interesting species. From other galactic faring civilizations, to incredible fauna, the universe is filled with many fantastic new varieties of alien life. And then, there are slimes.
+İnsanlık uzaydaki yolculukları sırasında birçok farklı türle karşılaştı. Diğer galaktik medeniyetlerden inanılmaz faunaya kadar, evren birçok fantastik ve yeni yabancı türler ile doludur. Şimdi ise slimelar var.
 
-Slimes are the omnipresent pest of the galaxy- an invasive species that nobody is really certain of the origins of, but that has quickly become one of the most annoyingly common problems for nearly everyone living throughout human space. Capable of extremely rapid breeding, living off of anything with lifeforce (which means that they can derive nourishment from almost anything) and with an insatiable hunger that drives them to damage livestock, agriculture, and in extreme situations, attack humans. They frequently find their way onto ships, which spreads them further.
+Slimelar, kökenleri hakkında kesin bir bilgi olmayan ancak neredeyse herkesin karşılaştığı sinir bozucu sorunlardan biridir. Son derece hızlı çoğalabilen slimelar, yaşam gücü olan her şeyi beslenme kaynağı olarak kullanabilirler. Tarımı, hayvancılığı tehdit edebilir ve olağanüstü durumlarda insanları dahi tehlikeye atabilirler. Uzay gemilerine bulaşıp, farklı alanlara yayılabilirler.
 
-In terms of physiology, slimes consist of a jelly-like substance coalesced around a central "core". This core houses nearly all of the slime's important functions, acting as a nerve centre. Slimes exhibit very low levels of intelligence, blorbling and bubbling in response to auditory stimulation. Some say that they may be attempting to communicate when doing this, but scientists have dismissed these claims.
+Fizyolojik olarak slimelar, jel benzeri bir maddeyle çevrili, merkezi bir "çekirdek" etrafında oluşur. Bu çekirdek, slimenin önemli işlevlerini gerçekleştirir ve sinir merkezi gibi davranır. Slimelar, düşük düzeyde zeka sergiler, işitsel uyarılara tepki olarak hareket ederler. Bazılarınız, bu hareketlerle iletişim kurmaya çalıştıklarını düşünüyor olabilir, ancak bilim insanları bu iddiaları reddetmiştir.
 
-Slimes also exhibit varying colours, seemingly with different characteristics. These colour mutations are based on the environment the slime finds itself in- however, in captivity, slimes exhibit seemingly random mutations, with no particular regard for their surroundings. Scientists have found no explanation for this phenomenon as of yet (which seems to be a running theme with slimes in general).
+Slimelar farklı renklerde görünebilir ve renklerine bağlı olarak farklı özellikler gösterebilirler. Bu renk mutasyonları, slimenin bulunduğu ortama dayanır ancak esaret altındaki slimelar bulundukları ortamı göz önüne almadan rastgele mutasyonlar gösterebilirler. Bilim insanları henüz bu fenomenin açıklamasını bulamamıştır (ki bu, slimelarla ilgili genel bir tema gibi görünüyor).
 
-Due to their extreme abundance, many scientists have tried to find a use for slimes, but seemingly to no avail. To this end, Nanotrasen has set up a new Xenobiology task force, with the intent to discover a use for these common pests. Many of Nanotrasen's top minds in this field suspect that the slime cores will be important to this eventual discovery.
+Aşırı yaygınlıkları nedeniyle, birçok bilim insanı slimelar için bir kullanım yolu bulmaya çalıştı, ancak görünüşe göre başarılı olamadılar. Bu doğrultuda, Nanotrasen, bu doğrultuda slimelar için bir kullanım keşfetmek amacıyla Xenobiyoloji görev gücü oluşturdu. Nanotrasen'in bu alandaki en iyi adamlarının birçoğu, slime çekirdeklerinin bu nihai keşifte önemli rol oynayacağını düşünmektedir.
 
+# Blob
 
-The Blob
-Sometimes, something within a slime goes wrong. Much like a cancer, cells begin to divide unchecked, and the slime takes on a new, more unwholesome form. The common term for this phenomenon is Blobbing, and the organism that it creates is known, colloquially, as a blob. Blobs replicate endlessly, regardless of energy input, consuming anything in their path. An outbreak of one aboard a station becomes a serious risk to all life aboard.
+Bazen, bir slimede bir şeyler ters gider. Bir kanser gibi, hücreler kontrolsüz bir şekilde bölünmeye başlar. Slime yeni ve daha sağlıksız bir form alır. Bu fenomenin ortak terimi Bloblaşma'dır ve bunun oluşturduğu organizma, yaygın bir tabirle, Blob olarak bilinir. Bloblar enerjilerine bakılmaksızın sonsuza kadar çoğalabilir ve yolundaki her şeyi tüketir. Bir istasyondaki bir Blob salgını, tüm yaşam için ciddi bir risk haline gelir.
