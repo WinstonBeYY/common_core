@@ -1,41 +1,40 @@
-# TerraGov (Organization)
+# TerraGov (Organizasyon)
 
-Location: Capital on Terra in the Sol System, spread throughout Civ-Space with influence dropping as distance increases.
+Konum: Güneş Sistemi'ndeki Terra'nın Başkenti, medeni uzay boyunca yayılmış. Dünyaya uzaklık arttıkça hükmü azalıyor.
 
-Type of Org: Galactic Governing Body
+Organizasyon Türü: Galaktik Yönetim
 
-Capital: Manhattan Capital District, New York City, United States, Earth, Sol System
+Başkent: Manhattan Başkent Bölgesi, New York Şehri, Amerika Birleşik Devletleri, Dünya, Güneş Sistemi
 
-Description: Easily the most powerful and massive organization in existence, TerraGov is the broadest governing body in the galaxy, operating like an imperium. Based in the Sol System, TerraGov operates on a tiered system for how much influence it exerts in a given region. Within Sol, they maintain a heavy presence and are responsible for maintaining law and order over smaller jurisdictions like planets and countries, as well as managing system-wide policy, elections, and finances. Outside Sol, their influence is much more diffuse and they shift to the role of primary peacekeeper between the smaller governments and organizations that lay within Civ-Space. For regions a short distance from Sol, this may mean appointing large delegations that advise and oversee regional governments while maintaining peacekeeping fleets and martial bases within their borders. Further away, near the peripherals of Civ-Space, they may be limited to sparse government embassies, listening outposts, and expeditionary fleets to maintain their presence.
+Tanım: Varlığını sürdüren en güçlü ve geniş örgüt olan TerraGov, galaksideki en geniş otoritedir ve bir imparatorluk gibi işler. Güneş Sistemi'nde merkezlenmiş olan TerraGov, bölgeden bölgeye değişen ve bölge önemine göre otoritesini arttırdığı kademeli bir yönetim sergiler. TerraGov Güneş sistemi içinde çok daha otoriter bir yapıdadır ve gezegenler, ülkeler gibi daha küçük yetki alanlarında yasa ve düzeni sağlamanın yanı sıra sistem genelinde politika, seçimler ve finans yönetiminden sorumludur. Güneş Sistemi dışında etkisi daha azdır ve medeni uzay içinde yer alan daha küçük hükümetler ve organizasyonlar arasında başlıca barış gücü olarak hareket eder. Güneş Sistemi'ne yakın bölgelerde, bu, bölgesel hükümetlere danışmanlık ve denetimde bulunan büyük heyetler atamayı, aynı zamanda o yönetimlerin sınırları içinde barışı koruyan filoları ve askeri üsleri bulundurmayı görev edinir. Medeni uzayın daha uzak kenarlarında ise varlıklarını sürdürmek için seyrek hükümet büyükelçilikleri, dinleme noktaları ve keşif filoları bulundurmakla yetinir.
 
-Taken in total, TerraGov maintains the largest fleets and wields the most resources in the galaxy by several orders of magnitude, but they also claim the most territory by far. While they maintain a number of bases and colonies outside Sol (with a growing concentration in the Alpha Centauri system), they are more than happy to let smaller governments and even large corporations shoulder the bureaucracy of maintaining settlements and order on the edges of Civ-Space. In these scenarios, TerraGov maintains a more hands-off approach and mainly functions to assist with record-keeping, communication, and protection of TG assets/fleets from pirates and other hostile forces.
+Genele bakıldığında, TerraGov, galaksideki en büyük filolara sahip ve en fazla kaynağa hükmeden kuruluştur ve aynı zamanda galakside en fazla toprağa sahip olan otoritedir. Güneş Sistemi dışında bir dizi üs ve koloniye sahipdir ve sahip olmaya devam etmektedir. (Alpha Centauri sisteminde giderek artan bir yoğunlukta) Daha küçük hükümetlere ve hatta büyük şirketlere, medeni uzayın kenarlarındaki yerleşimleri ve düzeni sürdürme yetkisini üstlenmelerine memnuniyetle izin verir. Bu senaryolarda TerraGov, daha az müdahaleci bir yaklaşım benimser ve temel olarak kayıt tutma, iletişim sağlama ve TG varlıklarını/filolarını korsanlar ve diğer düşman güçlere karşı koruma fonksiyonlarına odaklanır.
 
-Notes:
+notlar:
 
-* Most human crew members, and many alien crew members, are probably citizens of TerraGov and exist in their records in some form or another, unless they hail from an extremely backwoods/peripheral place.
-* Nanotrasen's biggest source of funding, whether from purchasing their products or through research grants.
-* Mostly focused on expanding Trailward of Sol, especially toward Alpha Centauri. Presence near SS13 is mostly limited to a group of embassies in the Spinward Stellar Coaltion.
+* İnsanların çoğu ve birçok yabancı tür muhtemelen TerraGov vatandaşıdır. Son derece uzak bir yerden gelmiyorlarsa TerraGov kayıtlarında tüm bilgileri bulunur.
+* TerraGov ister ürünlerini satın almak ister araştırma hibeleri ile olsun Nanotrasen'ın en büyük finansman kaynağıdır. 
+* Çoğunlukla Güneş sisteminin Trailward bölgesine, özellikle de Alpha Centauri'ye doğru genişlemeye odaklanmıştır. SS13 civarındaki varlığı genellikle Spinward Stellar Coalition içindeki bir dizi büyükelçilikle sınırlıdır.
 
 
-# Spinward Stellar Coalition (Organization)
+# Spinward Stellar Coalition (Organizasyon)
 
-Location: Territory mainly coreward of the station, just within Civ-Space
+Konum: Medeni uzay sınırları içerisinde, istasyonun çevresinde bulunuyor.
 
-Type of Org: Regional Governing Body
+Organizasyon Türü: Bölgesel Yönetim
 
-Capital: New Moscow City (Novayamoskva), New Moscow, Zvezda Revolyutsii Oblast
+Başkent: New Moscow City (Novayamoskva), New Moscow, Zvezda Revolyutsii Oblast
 
-Description: Born of the ashes of the collapsed Third Soviet Union, the Spinward Stellar Coalition is the closest governing body to SS13 that isn't an outpost for TerraGov, and controls many of the nearby destinations that the stations' crewmembers spend their extended off-time when not on rotation or staying in an NT housing accomodation. The SSC is fairly small in the grand scale of independent governments, and their territory consists of a few sparsely populated planets and orbital outposts. Life this far from Sol is rather austere, but the citizens of the core SSC are honest, hardworking folk by and large.
+Tanım: Çöken Üçüncü Sovyetler Birliği'nin küllerinden doğan Spinward Stellar Coalition, SS13'e en yakın TerraGov karakolu olmayan yönetimdir ve istasyon mürettebatının rotasyon döneminde veya NT konutlarında kalmadıkları uzun tatil dönemlerinde çevrede zaman geçirdikleri çoğu tesis bunların yönetimindedir. SSC, diğer organizasyonlarla kıyaslandığında oldukça küçüktür ve toprakları birkaç seyrek nüfuslu gezegen ve yörünge karakolundan oluşur. Güneş sisteminden bu kadar uzakta yaşam oldukça sade olsa da SSC'nin vatandaşları genel olarak dürüst ve çalışkan insanlardır.
 
-The SSC does its best to accommodate Nanotrasen's presence on the Periphery, and a good amount of their economy is based around supporting NT and other large corporations operating on the Space-Westward Periphery, despite their presence here predating NT's by several decades. The government is often characterized as bending over backwards to keep NT happy and avoid losing their business, and often averts its eyes from the frightening events and tales surrounding their nearby space stations. Nanotrasen, fully aware of their bargaining power, takes full advantage of this and often cheats on its taxes, violates SSC cargo and shipping codes, and even hinders or outright ignores investigations and inquisitions coming from the SSC when convenient, all while still maintaining a friendly, pleasant tone in communications. Some more cynical observers speculate that the only thing keeping Nanotrasen from outright ignoring the SSC altogether is the Coalition's embassies and friendly relations with TerraGov.
+SSC, Perifery'deki Nanotrasen varlığına en iyi şekilde uyum sağlamaya çalışır ve ekonomisinin önemli bir kısmı, NT ve diğer büyük şirketlere destek sağlama üzerine kurulmuştur ki bunlar, NT'nin buradaki varlığından birkaç on yıl önceye dayanmaktadır. Hükümet genellikle NT'yi memnun etmek ve iş ilişkilerini kaybetmemek için elinden geleni yapmakla tanınır ve genellikle yakındaki uzay istasyonları etrafında dönen korkunç olayları ve hikayeleri görmezden gelir. Nanotrasen ise pazarlık gücünün tamamen farkında olarak, bu durumdan tam anlamıyla yararlanır ve sıkça vergi kaçırır, SSC kargo ve nakliye kurallarını ihlal eder ve hatta uygun olduğunda SSC'den gelen soruşturmaları engeller veya görmezden gelir tüm bunları iletişimde dostça ve hoş bir tonu sürdürerek yapar. Bazı insanlar, Nanotrasen'in SSC'yi tamamen umursamaktan alıkoyan tek şeyin, Koalisyon'un büyükelçilikleri ve TerraGov ile olan dostane ilişkileri olduğunu söyler.
 
-This power dynamic has begun to change in recent years, however, as TerraGov becomes more interested in NT's constant scandals. Emboldened by the greater TG presence, the SSC have begun standing up for themselves more often, and Nanotrasen has begrudgingly made more attempts to appease the Coalition and abide by their rules.
+Ancak, son yıllarda TerraGov'un NT'nin skandallarına daha fazla ilgi göstermesiyle bu güç dinamiği değişmeye başlamıştır. TerraGov’un varlığıyla cesaret bulan SSC, kendilerini daha sık savunmaya başlamış, ve Nanotrasen de isteksizce Koalisyon'u memnun etmeye ve kurallarına uymaya yönelik daha fazla girişimde bulunmuştur.
 
-Notes:
-* The most common language in the SSC is Novorusskii, an East Slavic language derived from Russian. While Galactic Common is frequently spoken in the major cities, it is not an official language of the SSC, and non-speakers will find their time in the region marred by communication issues if they stray too far into the countryside.
-* The SSC popular living location for nearby NT crewmembers who are unsatisfied living on NT property and seek more freedom and normalcy during their time off rotation. Most seasoned employees can afford a decent living space on one of the planets or orbital facilities, and the commute from the SSC core to NT's Peripheral Dispatch Station is only a day or two by local sublight mass transit. If your character has a private apartment or domicile nicer than a closet and isn't at least a head of staff, they probably live here.
-* Lots of neat tourist and recreational destinations for crewmembers on leave from work! The locals will probably hate you though, because of what some dumb band of assistants did to the place last weekend. And the weekend before that. And the weekend before that.......
-
+Notlar:
+* TSSC'deki en yaygın dil Novorusskii'dir, bu da Rusça'dan türetilmiş Doğu Slav dillerindendir. Galaktik Ortak Dil genellikle büyük şehirlerde konuşulsa da SSC'nin resmi bir dili değildir. Novorusskii’yi bilmeyenler SSC kırsallarında iletişim sorunları ile karşılaşabilirler.
+* SSC toprakları NT mürettebat üyeleri için popüler bir yaşam alanıdır, NT mülklerinde yaşamaktan memnun olmayan ve rotasyon dönemlerinde daha fazla özgürlük ve normal yaşam arayanlar için idealdir. Deneyimli çalışanların çoğu, bir gezegen veya yörünge tesisinde uygun bir yaşam alanının maliyetlerini karşılayabilir ve SSC'nin merkezinden NT'nin Periferik Gönderi İstasyonu'na local sublight mass transit ile sadece bir veya iki gün süren bir yolculukla gidip gelebilir. Eğer bir çalışanın şahsi bir apartmanı veya bir evi varsa ve bir yönetici değilse, muhtemelen burada yaşıyordur.
+* Tatilde veya izinli çalışan için birçok ilginç turistik ve eğlence mekanı bulunmaktadır! Ancak yerel halk, muhtemelen her hafta sonu buraya gelen aptal asistan gruplarının yaptıkları nedeniyle sizden pek hoşlanmayabilir. 
 
 # The Third Soviet Union
 
