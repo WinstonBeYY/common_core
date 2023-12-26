@@ -1,56 +1,56 @@
-# HEY, LISTEN!
-This document should not be taken as gospel (despite its dramatic name). If you want to make an item, and don't want to tie it to one of these corporations, don't! Feel free to add more! A more fleshed out universe is good, and more corporations is one way of making that happen.
+# HEY, Dinle!
+Bu belgeye kutsal kitap muamelesi yapmamalısınız (adına rağmen). Bir eşya yapmak istiyorsanız ve bunu bu şirketlerden birine bağlamak istemiyorsanız, yapmayın! Daha geniş bir evren iyidir ve daha fazla şirket, bunun gerçekleşmesinin bir yolu olabilir.
 
 # Nanotrasen
-General industrial manufacturing concern. If you can't think of a specialised company to be making a given product, Nanotrasen will probably fit.
+Genel endüstriyel imalat şirketi. Belirli bir ürünü üretecek uzmanlaşmış bir şirket bulamıyorsanız, muhtemelen Nanotrasen üretebilir.
 
 # Cybersun Industries
-The syndicate's primary corporate member. Produces high grade electronics, cyborgs for the consumer market, and basic virtual and artificial intelligences (i.e. those not including Nanotrasen's recent advancements).
+Sendika üyesi ilk şirket. Tüketici pazarı için yüksek kaliteli elektronikler, cyborglar ve temel yapay zekalar (Nanotrasen'in son geliştirmelerini içermez) üretir.
 
 # Interdyne Pharmaceutics
-A corporate entity in the Syndicate. Makes medication for the healthcare industry as well as consumers. Also produces medical equipment, including specific sleeper models, prosthetics, organ printers and surgical tools. Responsible for Romerol.
+Sendika üyesi bir şirket. Sağlık endüstrisi ve tüketiciler için ilaç üretir. Ayrıca özel sleeper modelleri, protezler, organ yazıcıları ve cerrahi aletler de dahil olmak üzere tıbbi ekipman üretir. Romerol’ü bulan şirkettir.
 
 # Donk Corporation
-A corporate entity in the Syndicate. Produces a mix bag of products, including toys, shuttle parts (and complete shuttles) and microwavable food.
+Sendika üyesi bir şirket. Oyuncaklar, uzay mekiği parçaları, tam mekikler ve mikrodalga yiyecekler de dahil olmak üzere çeşitli ürünleri üretir.
 
 # Waffle Co.
-A corporate entity in the Syndicate. Produces breakfast food, as well as clandestine firearms for the black market.
+Sendika üyesi bir şirket. Kahvaltılık yiyeceklerin yanı sıra karaborsa için gizli çeşitli silahlar da üretiyor.
 
 # Apadyne Technologies
-A military manufacturing concern. Produces starship armour, mech parts, combat hardsuits, and high grade military materials.
+Askeri teknoloji imalat şirketi. Starship zırhı, mech parçaları, savaş zırhları ve yüksek kaliteli askeri malzemeler üretir.
 
 # Aussec Armory
-A military firearms manufacturing concern. Produces ammunition, firearms, and weapon parts, in particular for heavy infantry weapons.
+Askeri mühimmat imalat şirketi. Cephane, ateşli silahlar ve özellikle ağır piyade silahları için silah parçaları üretir.
 
 # Scarborough Arms
-A military firearms manufacturing concern. Produces ammunition, firearms, and weapon parts, in particular for light infantry weapons.
+Askeri mühimmat imalat şirketi. Özellikle hafif piyade silahları için mühimmat, ateşli silahlar ve silah parçaları üretir.
 
 # Kalashnikov Concern
-An ancient Earth military manufacturing concern. Known for their long lasting weapons which are still ubiquitous to this day, mostly in the hands of Space Russians. Now based out of the ex-Third Soviet Union.
+Antik Dünya askeri mühimmat imalat şirketi. Uzun ömürlü silahları ile bilinir ve günümüzde hâlâ genellikle Uzay Rusları'nın ellerinde bulunmaktadır. Şu anda eski Üçüncü Sovyetler Birliği'nden faaliyet göstermektedir.
 
 # IMI
-An ancient Earth military manufacturing concern. Though defunct for many years, their long lasting weapons are still ubiquitous to this day.
+Antik Dünya askeri mühimmat imalat şirketi. Uzun yıllardır faal olmasa da, uzun ömürlü silahları bugün hâlâ yaygın olarak kullanılmaktadır.
 
 # Auto-Ordnance Company
-An ancient Earth military manufacturing concern. While their name has mostly faded into obscurity, their weapons can, very rarely, be found in the depths of space.
+Antik Dünya askeri mühimmat imalat şirketi. İsimleri genellikle unutulmuş olsa da, silahları nadiren uzayın derinliklerinde bulunabiliyor.
 
 # Nakamura Engineering
-A large construction and manufacturing corporation. Manufactures engineering equipment including hardsuits, RCDs and engine parts, and acts as a construction company for stations.
+Büyük bir inşaat ve imalat şirketi. Uzay süitleri, RCD'ler ve motor parçaları dahil mühendislik ekipmanları üretir. İstasyonlar için inşaat şirketi olarak faaliyet gösterir.
 
 # DeForest Medical Corporation
-A pharmaceutical company. Produces hypospray, various medical equipment, and operates civilian hospitals throughout human space.
+Bir ilaç şirketi. Hypospray, çeşitli tıbbi ekipman üretir ve insan uzayı boyunca sivil hastaneleri işletir.
 
 # HONK Ltd.
-A clown corporation. Famous for being the first to harness bananium. Produces clowning equipment, including hardsuits, synthetic banana shoes, and banana cream pies.
+Bir palyaço şirketi. Bananium'u ilk keşfeden şirket olarak ünlüdür. Palyaçoluk ekipmanları üretir, bunlar arasında uzay süitleri, sentetik muz ayakkabıları ve muzlu krema pastalar bulunur.
 
 # The Wizard Federation
-Wizards. Produce magical shit.
+Büyücüler. Büyülü şeyler üretirler.
 
 # Eight-O Corporation
-Produces fitness equipment, such as skateboards, weight machines and clothing.
+Fitness ekipmanları üretir, örneğin kaykaylar, ağırlık makineleri ve giyim.
 
 # Robust Industries, LLC
-Produces consumables, including snacks, drinks and cigarettes.
+Tüketim ürünleri üretir, bunlar arasında atıştırmalıklar, içecekler ve sigaralar bulunur.
 
 # Sophronia Broadcasting
-A Broadcasting Company. Behind 'Sophronia Broadcasting's Plasteel Chef', and 'Sophronia Broadcasting's History Comes Alive'. Also creates merchandise in the form of the Cook's Ingredient Beacon and Curator's Hero Beacon. The Company is believed by some to conduct mind control experiments on their viewers.
+Bir Yayın Şirketi.  "Plasteel Şefi" ve "Tarih Canlanıyor"' programlarının yayınlayıcısıdır. Ayrıca Cook's Ingredient Beacon ve Curator's Hero Beacon şeklindeki ürünleri üretir. Bazıları şirketin izleyicileri üzerinde zihin kontrolü deneyleri yaptığına inanır.
